@@ -25,15 +25,6 @@
     },
     "plugins": [
       [
-        "@intercom/intercom-react-native",
-        {
-          "appId": "abc123",
-          "androidApiKey": "android_sdk-abc123",
-          "iosApiKey": "ios_sdk-abc123",
-          "intercomRegion": "EU"
-        }
-      ],
-      [
         "expo-build-properties",
         {
           "android": {
